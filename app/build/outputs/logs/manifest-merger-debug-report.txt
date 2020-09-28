@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/46004820cab87543f1baf027040f7a07/constraint-layout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/02a0b5591867b269bf90099dda756d74/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.volley:volley:1.1.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/0412498ae6b84ff1ccc51d3a7e430be5/volley-1.1.1/AndroidManifest.xml:2:1-11:12
@@ -32,33 +32,33 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kmmx/.gradle/caches/t
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/7f446c61d119859cc910274a8162160c/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/8ce8513e0c0ed0e577ea55f824679bf4/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/d7fd0a6b82dbac033f938c982be39bd3/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:5:5-78
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:5:5-79
 	android:name
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:8:5-22:19
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:8:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/46004820cab87543f1baf027040f7a07/constraint-layout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/46004820cab87543f1baf027040f7a07/constraint-layout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.1.1] /Users/kmmx/.gradle/caches/transforms-2/files-2.1/0412498ae6b84ff1ccc51d3a7e430be5/volley-1.1.1/AndroidManifest.xml:9:5-20
@@ -81,20 +81,24 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kmmx/.gradle
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.josrangel.volleyejemplo.UsuarioDetalleActivity
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:15:19-57
 activity#com.josrangel.volleyejemplo.MainActivity
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:15:19-47
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
 INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/AndroidManifest.xml

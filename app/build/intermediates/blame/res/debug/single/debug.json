@@ -24,6 +24,10 @@
         "source": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/intermediates/res/merged/debug/layout_activity_usuario_detalle.xml.flat",
+        "source": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/res/layout/activity_usuario_detalle.xml"
+    },
+    {
         "merged": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
         "source": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
     },
@@ -78,6 +82,10 @@
     {
         "merged": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/intermediates/res/merged/debug/layout_item_alumno.xml.flat",
+        "source": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/src/main/res/layout/item_alumno.xml"
     },
     {
         "merged": "/Users/kmmx/AndroidStudioProjects/VolleyEjemplo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
